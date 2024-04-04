@@ -1,0 +1,43 @@
+body {
+margin: 0;
+padding: 0;
+text-align: center;
+}
+#pudelko {
+margin: auto;
+width: 800px;
+outline: dotted white;
+}
+#logo {
+height: 100px;
+background-color: black;
+outline: dotted white;
+background-image: url("tło.png");
+}
+#menu {
+	width: 200px;
+	height: 400px;
+	float: left;
+	background-color: black;
+	outline: dotted white;
+}
+#tresc {
+	width: 600px;
+	height:400px;
+	float: right;
+	background-color:black;
+	outline: dotted white;
+}
+#stopka {
+	background-color: black;
+	clear: both;
+	outline: dotted white;
+}
+#text {
+	position: absolute;
+	
+}
+#werden {
+	position: relative;
+	left: 200px;
+}
